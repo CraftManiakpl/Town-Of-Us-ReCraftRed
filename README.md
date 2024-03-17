@@ -91,9 +91,8 @@ Join ToU's [Discord](https://discord.gg/ugyc4EVUYZ) !
   <summary> Changelog </summary>
   <details>
   <summary> v1.0b </summary>
-  <ul> <li>Compatibility with the new Among Us version v2023.11.28</li> </ul>
-  <ul> <li>Mayor role renamed to President</li> </ul>
-  <ul> <li>Old Mayor came back!</li> </ul>
+  <ul> <li>Compatibility with Among Us version v2023.11.28</li> </ul>
+  <ul> <li>Old Mayor came back as President!</li> </ul>
   <ul> <li>Old Drunk came back!</li> </ul>
   Plans:
   <ul> <li>Better Assassin Ability menu (like Shapeshifter)</li> </ul>
