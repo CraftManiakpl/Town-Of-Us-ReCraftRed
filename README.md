@@ -27,7 +27,7 @@ Join ToU's [Discord](https://discord.gg/ugyc4EVUYZ) !
 - [Medic](#medic)
 - [Engineer](#engineer)
 - [Imitator](#imitator)
-- [Mayor](#mayor)
+- [President](#president)
 - [Medium](#medium)
 - [Prosecutor](#prosecutor)
 - [Swapper](#swapper)
@@ -548,16 +548,16 @@ It should be noted the Imitator can not imitate all crew roles.
 | Imitator | The percentage probability of the Imitator appearing | Percentage | 0% |
 
 -----------------------
-## Mayor
+## President
 ### **Team: Crewmates**
-The Mayor is a Crewmate that can reveal themself to everyone.\
-Once revealed the Mayor cannot be assassinated, gains an additional 2 votes and everyone can see that they are the Mayor.\
+The President is a Crewmate that can reveal themself to everyone.\
+Once revealed the President cannot be assassinated, gains an additional 2 votes and everyone can see that they are the Presidnet.\
 As a consequence of revealing, they have half vision when lights are on.
 
 ### Game Options
 | Name | Description | Type | Default |
 |----------|:-------------:|:------:|:------:|
-| Mayor | The percentage probability of the Mayor appearing | Percentage | 0% |
+| President | The percentage probability of the President appearing | Percentage | 0% |
 
 -----------------------
 ## Medium
