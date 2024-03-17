@@ -82,9 +82,9 @@ Join ToU's [Discord](https://discord.gg/ugyc4EVUYZ) !
 
 -----------------------
 # Releases
-| Among Us - Version| Tou Version/Mod Version |  |
+| Among Us - Version| ToU Version/Mod Version | Download |
 |----------|-------------|-----------------|
-| 2023.11.28s & 2023.11.28e | v5.0.3/v1.0 | [Download](link) |
+| 2023.11.28s & 2023.11.28e | v5.0.3/v1.0b | [Download](link) |
 
 
 <details>
