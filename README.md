@@ -551,7 +551,7 @@ It should be noted the Imitator can not imitate all crew roles.
 ## President
 ### **Team: Crewmates**
 The President is a Crewmate that can reveal themself to everyone.\
-Once revealed the President cannot be assassinated, gains an additional 2 votes and everyone can see that they are the Presidnet.\
+Once revealed the President cannot be assassinated, gains an additional 2 votes and everyone can see that they are the President.\
 As a consequence of revealing, they have half vision when lights are on.
 
 ### Game Options
