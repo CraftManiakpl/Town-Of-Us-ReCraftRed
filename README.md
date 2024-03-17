@@ -99,6 +99,8 @@ Join ToU's [Discord](https://discord.gg/ugyc4EVUYZ) !
   <ul> <li>Better Assassin Ability menu (like Shapeshifter)</li> </ul>
   <ul> <li>Better Transport menu (like Shapeshifter)</li> </ul>
   <ul> <li>Better Mimic menu (like Shapeshifter)</li> </ul>
+  <ul> <li>Hats optimalisation</li> </ul>
+  <ul> <li>Separation of visors from hats</li> </ul>
   </details>
 
 -----------------------
