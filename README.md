@@ -3,7 +3,7 @@
 ![LOGO](./Images/ReCraftRed.png)
 ![Roles](./Images/Roles.png)
 
-An Among Us mod that adds a bunch of roles, modifiers and game settings... or rather just a fork for that mod.
+# Town of Dummies (AKA Town of Us - ReCraftRed) is an Among Us mod that adds a bunch of roles, modifiers and game settings... or rather just a fork for that mod.
 
 Join ToU's [Discord](https://discord.gg/ugyc4EVUYZ) !
 
